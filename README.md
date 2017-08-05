@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Scope_Exit](https://github.com/Boostorg/Scope_Exit) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Scope_Exit%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Scope_Exit%3Abincrafters).
 
 ## For Users: Use this package
 
