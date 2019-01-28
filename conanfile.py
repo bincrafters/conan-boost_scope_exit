@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.68.0@bincrafters/stable")
 
 class BoostScope_ExitConan(base.BoostBaseConan):
     name = "boost_scope_exit"
+    version = "1.68.0"
     url = "https://github.com/bincrafters/conan-boost_scope_exit"
     lib_short_names = ["scope_exit"]
     header_only_libs = ["scope_exit"]
